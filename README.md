@@ -60,7 +60,6 @@ Me chamo Kayky de Sousa Queiroz, tenho 21 anos, natural de São Paulo – SP e a
 <br/>
 <br/>
 
-### 📊 Estatísticas
 ### 📊 Estatísticas GitHub
 
 <div align="center">
