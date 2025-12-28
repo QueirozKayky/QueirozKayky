@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Kayky de Sousa Queiroz, tenho 21 anos e sou natural de São Paulo - SP. Atualmente, estou cursando Ciência da Computação (8/8) na Universidade Paulista - UNIP. Sou apaixonado por tecnologia.
+Me chamo Kayky de Sousa Queiroz, tenho 21 anos, natural de São Paulo – SP e atualmente residente em São José dos Campos - SP. Concluindo Ciência da Computação pela UNIP. Sou apaixonado por tecnologia e estou sempre buscando evoluir como desenvolvedor e aprender novas ferramentas.
 
 ---
 
